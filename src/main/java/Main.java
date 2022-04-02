@@ -8,12 +8,12 @@ public class Main {
         List<Student> v = new ArrayList<Student>();
 
         StudentReader myFileReader = new StudentReader();
-        myFileReader.ReadData(v, "C:\\ProgrammingProjects\\time\\StudAver\\notes3.txt");
+        myFileReader.ReadData(v, "notes.txt");
 
         StudentSorter mySort = new StudentSorter();
         mySort.SortData(v);
 
         StudentWriter myFileWriter = new StudentWriter();
-        myFileWriter.WriteData(v,"C:\\ProgrammingProjects\\time\\StudAver\\out.txt");
+        myFileWriter.WriteData(v,"out.txt");
     }
 }

@@ -1,7 +1,0 @@
-testtestov6.0
-VasyaIvanov5.0
-IvanIvanov4.0
-IvanPetrov4.0
-VasyaPetrov4.0
-PetrPetrov3.0
-PetrIvanov2.0
