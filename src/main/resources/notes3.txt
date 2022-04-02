@@ -1,0 +1,6 @@
+Ivan Ivanov 3 4 5
+Ivan Petrov 5 4 3
+Petr Petrov 3 3 3
+Petr Ivanov 2 2 2
+Vasya Ivanov 5 5 5
+Vasya Petrov 4 4 4
